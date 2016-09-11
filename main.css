@@ -64,9 +64,7 @@ body {
     color: #000;
 }
 
-ul {
-	float: left;
-}
+
 ul li {
 	float: left;
 	list-style-type: none;
