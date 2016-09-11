@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Poiret+One|Titillium+Web';
+
 * {
     margin: 0;
     padding: 0;
@@ -6,10 +8,12 @@
 html,
 body {
     width: 100%;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 .navbar {
     position: fixed;
+    width: 100%;
 }
 
 .primary-color {
@@ -64,6 +68,7 @@ ul {
 	float: left;
 }
 ul li {
+	float: left;
 	list-style-type: none;
 	/*relative positioning for list items along with overflow hidden to contain the overflowing ripple*/
 	position: relative;
