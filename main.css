@@ -77,7 +77,7 @@ ul li {
 ul li a {
 	display: block; padding: 10px 15px;
 	text-decoration: none;
-	-webkit-user-select: none;
-	/*static positioned elements appear behind absolutely positioned siblings(.ink in this case) hence we will make the links relatively positioned to bring them above .ink*/
+	/*-webkit-user-select: none;
+	static positioned elements appear behind absolutely positioned siblings(.ink in this case) hence we will make the links relatively positioned to bring them above .ink*/
 	position: relative;
 }
