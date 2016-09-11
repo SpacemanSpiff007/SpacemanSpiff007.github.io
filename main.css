@@ -66,7 +66,7 @@ body {
 
 
 ul li {
-	float: left;
+	z-index: 1;
 	list-style-type: none;
 	/*relative positioning for list items along with overflow hidden to contain the overflowing ripple*/
 	position: relative;
