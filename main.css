@@ -79,6 +79,7 @@ body {
 
 
 ul li {
+	float: left;
 	list-style-type: none;
 	width: 120px;
 	height: 50px;
