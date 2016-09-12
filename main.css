@@ -36,6 +36,16 @@ body {
     background-color: #FF3F80;
 }
 
+.p400 {
+	background-color: #C5CAE9;	
+}
+.p500 {
+	background-color: #3F51B5;
+}
+.p700 {
+	background-color: #303F9F;
+}
+
 .light-background .primary-text {
     color: #000;
     opacity: 87%;
