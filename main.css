@@ -11,6 +11,10 @@ body {
     font-family: 'Titillium Web', sans-serif;
 }
 
+.ink {
+	z-index: 100;
+}
+
 .navbar {
     position: fixed;
     width: 100%;
