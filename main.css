@@ -72,15 +72,18 @@ body {
 ul li {
 	list-style-type: none;
 	width: 120px;
+	height: 75px;
 	/*relative positioning for list items along with overflow hidden to contain the overflowing ripple*/
 	position: relative;
 	overflow: hidden;
 }
 ul li a {
-	display: block; 
-	padding: 10px 15px;
+	display: block;
 	width: 120px;
+	height: 75px;
+	line-height: 37.5px;
 	text-align: center;
+	line-height: 
 	text-decoration: none;
 	/*-webkit-user-select: none;
 	static positioned elements appear behind absolutely positioned siblings(.ink in this case) hence we will make the links relatively positioned to bring them above .ink*/
