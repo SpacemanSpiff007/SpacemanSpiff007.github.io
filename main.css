@@ -13,7 +13,7 @@ body {
 
 .ink {
 	display: block; position: absolute;
-	background: #FF3F80;
+	background: #FF80AB;
 	border-radius: 100%;
 	transform: scale(0);
 }
