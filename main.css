@@ -11,6 +11,10 @@ body {
     font-family: 'Titillium Web', sans-serif;
 }
 
+.header {
+	background: url("/solar-system.jpeg");
+}
+
 .ink {
 	display: block; position: absolute;
 	background: #C5CAE9;
