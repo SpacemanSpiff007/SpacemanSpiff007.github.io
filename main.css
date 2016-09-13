@@ -51,7 +51,7 @@ body {
 	100% {opacity: 0; transform: scale(2.5);}
 }
 
-.navbar {
+._navbar {
     position: fixed;
     width: 100%;
     z-index: 10;
