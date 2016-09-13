@@ -17,6 +17,7 @@ body {
 	height: 300px;
 	background: url("/Assets/Images/seamless-bground.png");
 	background-size: 400px;
+	background-repeat: no-repeat;
 }
 .logo {
 	width: 200px;
