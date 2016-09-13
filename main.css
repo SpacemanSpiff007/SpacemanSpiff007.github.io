@@ -25,6 +25,10 @@ a:visited {
 	text-decoration: none;
 }
 
+.img-holder {
+	overflow: hidden;
+}
+
 .bodystuff {
 	position: relative;
 }
