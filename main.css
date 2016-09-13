@@ -36,7 +36,7 @@ body {
     position: fixed;
     width: 100%;
     z-index: 10;
-    box-shadow: 0px 5px 5px black;
+    box-shadow: 0px 5px 5px #333;
 }
 
 .primary-color {
