@@ -22,6 +22,7 @@ body {
 	width: 200px;
 	height: 200px;
 	background: url("/Assets/Images/logo.jpg");
+	background-size: 100%;
 }	
 
 .ink {
