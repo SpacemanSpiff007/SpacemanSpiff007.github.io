@@ -11,13 +11,18 @@ body {
     font-family: 'Titillium Web', sans-serif;
 }
 
-.header {
+.deco-header {
 	position: relative;
 	width: 100%;
 	height: 300px;
 	background: url("/Assets/Images/seamless-bground.png");
 	background-size: 400px;
 }
+.logo {
+	width: 200px;
+	height: 200px;
+	background: url("/Assets/Images/logo.jpg");
+}	
 
 .ink {
 	display: block; position: absolute;
