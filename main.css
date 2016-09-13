@@ -24,7 +24,8 @@ body {
 	background: url("/Assets/Images/logo.jpg");
 	background-size: 200px 200px;
 	background-repeat: no-repeat;
-	margin: -50px auto;
+	margin: -100px auto;
+	z-index: 10;
 }	
 
 .ink {
