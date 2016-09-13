@@ -12,6 +12,7 @@ body {
 }
 
 a:link {
+	overflow: hidden;
 	text-decoration: none;
 }
 a:hover {
